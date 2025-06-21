@@ -1,2 +1,2 @@
 # codesignal-learn-codes
-CodeSignal Learn codes
+[CodeSignal Learn](https://codesignal.com/learn) codes

@@ -1,0 +1,11 @@
+[project]
+name = "codesignal-learn-codes"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13.4"
+dependencies = [
+    "datasets>=3.6.0",
+    "pandas>=2.3.0",
+    "scikit-learn>=1.7.0",
+]
