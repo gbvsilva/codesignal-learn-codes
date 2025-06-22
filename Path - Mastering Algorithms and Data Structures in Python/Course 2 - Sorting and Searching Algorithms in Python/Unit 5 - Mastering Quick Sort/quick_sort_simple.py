@@ -14,6 +14,6 @@ def quick_sort(arr):
 random_numbers = [random.randint(50, 100) for _ in range(20)]
 print("Unsorted List: ", random_numbers)
 
-# TODO: Use the Quick Sort function to sort the list in descending order and print the sorted list
+# TODO: Use the Quick Sort function to sort the list in ascending order and print the sorted list
 sorted_numbers = quick_sort(random_numbers)
 print("Sorted List: ", sorted_numbers)
